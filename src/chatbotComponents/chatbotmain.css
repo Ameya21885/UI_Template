@@ -1,0 +1,25 @@
+.chatbotmain{
+    border: 2px solid black;
+    direction: rtl;
+    display: flex;
+    width: auto;
+}
+.b{
+    padding: 1rem;
+}
+#bimg{
+    border: 2px solid black;
+    border-radius: 5rem;
+}
+.a{
+    display: none;
+}
+.aa{
+    display: contents;
+}
+.chatbotactive{
+    display: contents;
+}
+.chatbotdisactive{
+    display: none;
+}
